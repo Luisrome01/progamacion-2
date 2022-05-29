@@ -1,5 +1,4 @@
-//programa que mediante el uso de funciones, realice las opresiones aritméticas básicas, suma resta, multiplicación y división de números enteros
-#include <conio.h>
+//programa que mediante el uso de funciones, realice las opresiones aritmÃ©ticas bÃ¡sicas, suma resta, multiplicaciÃ³n y divisiÃ³n de nÃºmeros enteros
 #include <stdio.h>
 
 int main()
